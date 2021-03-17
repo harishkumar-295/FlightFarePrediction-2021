@@ -24,14 +24,23 @@ Login or signup in order to create virtual app. You can either connect your gith
 # Directory Tree
 
 ├── static 
+
 │   ├── css
+
 ├── template
+
 │   ├── home.html
+
 ├── Procfile
+
 ├── README.md
+
 ├── app.py
+
 ├── flight_price.ipynb
+
 ├── flight_rf.pkl
+
 ├── requirements.txt
 
 # Technologies used
