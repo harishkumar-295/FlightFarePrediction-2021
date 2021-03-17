@@ -31,6 +31,6 @@ Login or signup in order to create virtual app. You can either connect your gith
 # Future Scope
  1.Use multiple Algorithms
 
- 2. Optimize Flask app.py
+ 2.Optimize Flask app.py
 
  3.Front-End
