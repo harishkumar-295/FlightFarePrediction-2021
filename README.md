@@ -4,11 +4,11 @@ This is an end to end project for predicting flight fare and deploying the model
 
 The link of the deployed app : https://flight-fare-prediction-2021.herokuapp.com
 
-#Overview
+# Overview
 
 This is a Flask web app which predicts fare of Flight ticket.
 
-Motivation
+# Motivation
 
 I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a differe
 
