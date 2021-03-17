@@ -12,7 +12,7 @@ This is a Flask web app which predicts fare of Flight ticket.
 
 # Motivation
 
-I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
+I started to learn different Machine Learning model to understand it and get most out of it by applying to real world problems. I understood the mathematics behind all supervised models i.e for this problem problem I used a Regression model. Finally I applied it this problem.
 
 # Installation
 The Code is written in Python 3.6. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
@@ -22,6 +22,7 @@ pip install -r requirements.txt
 # Deployement on Heroku
 
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+You can Login/Signup using the link: https://id.heroku.com/login
 
 # Technologies used
  1. Flask
@@ -30,7 +31,5 @@ Login or signup in order to create virtual app. You can either connect your gith
  
 # Future Scope
  1.Use multiple Algorithms
-
  2.Optimize Flask app.py
-
  3.Front-End
