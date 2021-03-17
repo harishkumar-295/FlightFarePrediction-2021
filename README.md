@@ -30,6 +30,8 @@ You can Login/Signup using the link: https://id.heroku.com/login
  3. Scikit-Learn
  
 # Future Scope
- 1.Use multiple Algorithms
+ 1.Use multiple Algorithms to find a better algorithm with better performance.
+ 
  2.Optimize Flask app.py
- 3.Front-End
+ 
+ 3.Improve the Front-End to make the app look more attractive and interactive.
