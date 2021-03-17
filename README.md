@@ -4,6 +4,9 @@ This is an end to end project for predicting flight fare and deploying the model
 
 The link of the deployed app : https://flight-fare-prediction-2021.herokuapp.com
 
+![Screenshot (102)](https://user-images.githubusercontent.com/80705710/111488267-19d58a80-875f-11eb-9f7b-13896cbe1ee8.png)
+
+
 # Overview
 
 This is a Flask web app which predicts fare of Flight ticket.
