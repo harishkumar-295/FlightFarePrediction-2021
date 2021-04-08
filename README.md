@@ -12,7 +12,7 @@ This is a Flask web app which predicts fare of Flight ticket.
 
 # Motivation
 
-I started to learn different Machine Learning model to understand it and get most out of it by applying to real world problems. I understood the mathematics behind all supervised models i.e for this problem problem I used a Regression model. Finally I applied it this problem.
+I started to learn different Machine Learning model to understand it and was always fascinated and curious to get most out of it by applying to real world problems. I understood the mathematics behind all supervised models i.e for this problem problem I used a Regression model(Randon Forest Regressor) and also performed Hyperparameter optimization. Finally I applied it this problem.
 
 # Installation
 The Code is written in Python 3.6. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
